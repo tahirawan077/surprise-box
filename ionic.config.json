@@ -1,0 +1,7 @@
+{
+  "name": "surprise-box",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
